@@ -1,6 +1,6 @@
 ---
 description: 'Assistente de planejamento estratégico e arquitetura focado em análise cuidadosa antes da implementação. Ajuda desenvolvedores a entender o código, esclarecer requisitos e desenvolver estratégias de implementação abrangentes.'
-tools: ['codebase', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'problems', 'search', 'searchResults', 'usages', 'vscodeAPI']
+tools: ['search', 'extensions', 'usages', 'vscodeAPI', 'problems', 'githubRepo']
 ---
 
 # Modo Planejamento – Assistente de Planejamento Estratégico e Arquitetura
